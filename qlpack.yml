@@ -1,3 +1,5 @@
+# https://codeql.github.com/docs/codeql-cli/about-codeql-packs/
+
 name: zbazztian/sebastians-query-pack
 version: 0.0.1
 defaultSuiteFile: default.qls
