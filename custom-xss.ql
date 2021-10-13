@@ -3,6 +3,7 @@
  * @description Like the default query, but without internal sources
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 6.1
  * @precision high
  * @id java/custom-xss
  * @tags security
